@@ -1,14 +1,11 @@
 # <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaoleGun&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 ### Hi there 👋 I'm xiaoleGun
-- 🌱 I’m learning Android~
-- 📫 Email: xiaolegun@qq.com
+- 🌱 I’m learning Node.js~
+- 📫 Email: sguii5147@gmail.com
 - 🏠 I'm a junior high school student of Beijing Yanqing No.4 middle school.
 - A staunch communist
-- “你负责担心，我负责搞定一切”
 
-### Buy me milk tea
-[爱发电](https://afdian.net/a/xiaoleGun)
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
