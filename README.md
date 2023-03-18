@@ -1,6 +1,6 @@
 # <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaoleGun&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
-### Hi there 👋 I'm xiaoleGun
+### Hi there 👋 I'm Guii Santos
 - 🌱 I’m learning Node.js~
 - 📫 Email: sguii5147@gmail.com
 - 🏠 I'm a junior high school student 
