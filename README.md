@@ -2,7 +2,7 @@
 
 
 
-        ### Hi there 👋 I'm Guii Santos
+        -  Hi there 👋 I'm Guii Santos
         - 🌱 I’m learning Node.js~
         - 📫 Email: sguii5147@gmail.com
         - 🏠 I'm a junior high school student 
