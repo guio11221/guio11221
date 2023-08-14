@@ -1,7 +1,5 @@
 # Seja bem-vindo ao meu perfil!
 
-## ;-; 
-
 ![GitHub Contribution Grid Snake](https://github.com/xiaoleGun/xiaoleGun/raw/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Contribution Grid Snake](https://github.com/xiaoleGun/xiaoleGun/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 
