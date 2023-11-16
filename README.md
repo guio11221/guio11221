@@ -1,11 +1,11 @@
-<center>
-  <img src="./guio11221.jpeg"  alt="gmail logo"  />
+ <center>
+  <img src="./guio11221.jpeg" height="400"  alt="gmail logo"  />
 </center>
 
 
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
