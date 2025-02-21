@@ -24,3 +24,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guio11221&theme=blue-green&layout=compact" alt="Linguagens mais usadas" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guio11221&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </div>
+ 
+  ![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
