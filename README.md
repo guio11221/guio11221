@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Guilherme%20Dev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Guilherme+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Especialista+em+Automa%C3%A7%C3%A3o+e+IA;Node.js+%7C+TypeScript+%7C+Python+%7C+PHP)](https://git.io/typing-svg)
-
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Guilherme+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Especialista+em+Automa%C3%A7%C3%A3o+e+IA;Node.js+%7C+TypeScript+%7C+Python+%7C+PHP)](https://git.io/typing-svg)
+-->
 ---
 
 <div align="center">
@@ -63,5 +63,3 @@
 ![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
