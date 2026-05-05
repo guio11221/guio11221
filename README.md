@@ -2,17 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Guilherme+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Especialista+em+Automa%C3%A7%C3%A3o+e+IA;Node.js+%7C+TypeScript+%7C+Python+%7C+PHP)](https://git.io/typing-svg)
 
-<div align="center">
-
-### 🚀 Sobre mim
-
-💻 Desenvolvedor focado em **Backend, APIs, IA e Sistemas Web**  
-⚡ Criação de soluções escaláveis, rápidas e eficientes  
-🧠 Especialista em integrações, automações e produtividade  
-📍 Brasil
-
-</div>
-
 ---
 
 <div align="center">
@@ -30,8 +19,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
 <img width="12"/>
@@ -72,9 +59,7 @@
 ---
 
 <div align="center">
-
-### 🐍 Contributions
-
+  
 ![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
 
 </div>
