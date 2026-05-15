@@ -67,8 +67,6 @@ Construindo APIs, assistentes inteligentes, sistemas corporativos e integraçõe
 
 </div>
 
----
-
 <div align="center">
 
 ## 🌐 Contato
@@ -82,12 +80,7 @@ Construindo APIs, assistentes inteligentes, sistemas corporativos e integraçõe
 </a>
 </div>
 
----
-
 <div align="center">
-
 ![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
-
 </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
