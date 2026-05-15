@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# 👨‍💻 Guilherme Santos
-
 ### Desenvolvedor focado em IA, Backend, Automação e Sistemas Escaláveis
 
 Construindo APIs, assistentes inteligentes, sistemas corporativos e integrações robustas usando tecnologias modernas.
