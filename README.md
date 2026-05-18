@@ -37,8 +37,6 @@
 
 <div align="center">
 
-## 🔥 Streak Stats
-
 <img src="https://streak-stats.demolab.com?user=guio11221&theme=tokyonight&hide_border=true"/>
 
 </div>
