@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Guilherme%20Santos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20AI%20Engineer%20•%20Backend%20Specialist&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Guilherme%20Santos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18"/>
  
 <div align="center">
 
