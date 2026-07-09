@@ -25,8 +25,7 @@
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=guio11221&hide=HTML,CSS,Jupyter%20Notebook&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8)](https://github.com/guio11221/guio11221)
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guio11221&theme=github-compact&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guio11221&bg_color=0d1117&color=075dc0&line=004cff&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ---
